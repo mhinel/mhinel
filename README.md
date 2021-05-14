@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhinel
 - 👀 I’m interested in web developing
-- 🌱 I’m currently studying computer science engineering
+- 🌱 I’m currently studying Computer Science Engineering
 - 💞️ I’m looking to collaborate on front-end or full-stack projects
 - 📫 How to reach me: linkedin.com/in/marcell-hinel-7b2935135/
